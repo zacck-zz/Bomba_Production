@@ -1,0 +1,29 @@
+<resources>
+
+    <string name="app_name">Bomba</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Bomba</string>
+    <string name="artistImage">artistImage</string>
+    <string name="artistName">Artist Name</string>
+    <string name="songName"> Song Name - song name </string>
+    <string name="app_id">280604498727857</string>
+    <string name="tab_songs">Main</string>
+    <string name="m_playlist">My Playlist                                              Edit</string>
+    <string name="s_playlist">Saved Playlists                                      Edit</string>
+    <string name="home_tab">Home</string>
+    <string name="search_tab">Search</string>
+    <string name="discover_tab">Discover</string>
+    <string name="image_string">artist or album Image</string>
+    <string name="share">share</string>
+    <string name="add">add</string>
+    <string name="edit">edit</string>
+    <string name="now_playing_button">Now Playing</string>
+    <string name="artist">Artists</string>
+    <string name="tracks">Tracks</string>
+    <string name="playlists">Playlists</string>
+    <string name="like">Like</string>
+    <string name="related">Related</string>
+    
+
+</resources>
